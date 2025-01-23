@@ -1,0 +1,221 @@
+[
+  {
+    "filter_id":1,
+ 
+    "products": [
+      {
+        "product":1,
+        "name": "Air frayer",
+        "image": "./img/homeAppliances/MixerGrinder.webp",
+        "price": 1400.00
+         
+      },
+      {
+        "product":2,
+        "name": "Gas Stove",
+        "image": "./img/homeAppliances/GasStove.webp",
+        "price": 2800.00
+        
+      },
+      {
+        "product":3,
+        "name": "Juicer",
+        "image": "./img/homeAppliances/juicer.webp",
+        "price": 1499.00
+        
+      },
+      {"product":4,
+        "name": "Mixer Grinder",
+        "image": "./img/homeAppliances/MixerGrinder.webp",
+        "price":  2500.00
+      },
+      {
+        "product":5,
+        "name": " Oven Toaster",
+        "image": "./img/homeAppliances/OvenToaster.webp",
+        "price":  2000.00 
+    
+      },
+      {
+        "product":6,
+        "name": " Refrigerator",
+        "image": "./img/homeAppliances/Refrigerator.webp",
+        "price":   5000.00 
+      }
+   
+    ]
+  },
+  {
+    "filter_id":2,
+    "products":[
+      {
+        "product":7,
+        "name": "Blazer",
+        "image": "./img/clothes-m/Blazer.jpeg",
+        "price": 1400.00
+          
+      },
+      {
+        "product":8,
+        "name": "casual shirt",
+        "image": "./img/clothes-m/casualshirt.jpeg",
+        "price": 2800.00
+        
+      },
+      {
+        "product":9,
+        "name": "Jean Shirt ",
+        "image": "./img/clothes-m/jeanshirt.jpeg",
+        "price":  999   
+      },
+      { 
+        "product":10,
+        "name": "Kurta ",
+        "image": "./img/clothes-m/Kurta.jpeg ",
+        "price":  1499   
+      },
+      {
+        "product":11,
+        "name": "Track-Pant ",
+        "image": "./img/clothes-m/Track-Pant.jpeg ",
+        "price":  899 
+      },
+      {
+        "product":12,
+        "name": "T-Shirt ",
+        "image": "./img/clothes-m/T-Shirt.jpeg",
+        "price": 599 
+      }
+    ]
+  },
+  {
+    "filter_id":3,
+    "products":[
+      {
+        "product":13,
+        "name":"back-Not",
+        "image":"./img/clothes-w/backnot.webp",
+        "price": 899 
+      },
+      {
+        "products":14,
+        "name": " Gown",
+        "image": "./img/clothes-w/Gown.webp",
+        "price":  1800.00  
+      },
+      {
+        "product":15,
+        "name": "Midi Dress ",
+        "image": "./img/clothes-w/mididress.webp",
+        "price":  499
+         
+      },
+      { "product":16,
+        "name": "Red Saree ",
+        "image": "./img/clothes-w/RedSaree.jpeg ",
+        "price":  799
+         
+      },
+      { 
+        "product":17,
+        "name": "Roadster ",
+        "image": "./img/clothes-w/Roadster.webp",
+        "price":  1299
+ 
+      },
+      {
+        "product":18,
+        "name": "V-Neck ",
+        "image": "./img/clothes-w/VNeck.webp",
+        "price":  750
+        
+      }
+    ]
+    
+  },
+  
+  {
+    "filter_id":4,
+    "products":[
+      {
+        "product":25,
+        "name": "Fragrance oil",
+        "image": "./img/Cosmetics/Fragranceoil.jpeg ",
+        "price": 199.00 
+      },
+      {
+        "product":26,
+        "name": "Lipstick",
+        "image": "./img/Cosmetics/Lipstick.jpeg ",
+        "price": 400.00 
+      },
+      {
+        "product":27,
+        "name": "nivia",
+        "image": "./img/Cosmetics/nivia.webp ",
+        "price": 340 
+      },
+      {
+        "product":28,
+        "name": "Skin Care",
+        "image": "./img/Cosmetics/SkinCare.jpeg ",
+        "price":  1400   
+      },
+      {
+        "product":29,
+        "name": "The Beauty Routine",
+        "image": "./img/Cosmetics/TheBeautyRoutine.jpeg ",
+        "price":   1020 
+      },
+      {
+        "product":30,
+        "name": "Vit c Brilliance",
+        "image": "./img/Cosmetics/VitcBrilliance.webp ",
+        "price": 560 
+         
+      }
+    ]
+  },
+  {
+    "filter_id":5,
+    "products":[
+      {
+        "product":25,
+        "name":"Harry Potter",
+        "image":"./img/books/HarryPotter.jpeg",
+        "price": 599 
+      },
+      {
+        "product":26,
+        "name": "Money Management",
+        "image": "./img/books/MoneyManagement.jpeg",
+        "price": 300.00 
+      },
+      {
+        "product":27,
+        "name": "Road Dahl",
+        "image": "./img/books/RoadDahl.jpeg",
+        "price":  200 
+      },
+      {
+        "product":28,
+        "name": "The Alchemist ",
+        "image": "./img/books/TheAlchemist.jpeg ",
+        "price": 150 
+      },
+      {
+        "product":29,
+        "name": "The Outsiders ",
+        "image": "./img/books/TheOutsiders.jpeg",
+        "price":  99 
+      },
+      {
+        "product":30,
+        "name": "The Psychology of money",
+        "image": "./img/books/ThePsychologyofmoney.jpeg ",
+        "price": 199 
+      }
+    ]
+  }
+  
+]
